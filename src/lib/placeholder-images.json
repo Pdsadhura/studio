@@ -1,3 +1,124 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "poster-1",
+      "imageUrl": "https://images.unsplash.com/photo-1759938297207-a7a9a699ee04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzcGFjZSUyMG9wZXJhfGVufDB8fHx8MTc2NzEyMzgxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "space opera"
+    },
+    {
+      "id": "backdrop-1",
+      "imageUrl": "https://images.unsplash.com/photo-1535021131637-96f0c931f5d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmdXR1cmlzdGljJTIwY2l0eXxlbnwwfHx8fDE3NjcxMjk4NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "futuristic city"
+    },
+    {
+      "id": "poster-2",
+      "imageUrl": "https://images.unsplash.com/photo-1514539079130-25950c84af65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYW50YXN5JTIwbGFuZHNjYXBlfGVufDB8fHx8MTc2NzE0NTgwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy landscape"
+    },
+    {
+      "id": "backdrop-2",
+      "imageUrl": "https://images.unsplash.com/photo-1603976328262-4c1b46d7e6e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxlbmNoYW50ZWQlMjBmb3Jlc3R8ZW58MHx8fHwxNzY3MTA5NTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "enchanted forest"
+    },
+    {
+      "id": "poster-3",
+      "imageUrl": "https://images.unsplash.com/photo-1758525589346-59d1e527c574?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxub2lyJTIwZGV0ZWN0aXZlfGVufDB8fHx8MTc2NzE0NjYwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "noir detective"
+    },
+    {
+      "id": "backdrop-3",
+      "imageUrl": "https://images.unsplash.com/photo-1488034976201-ffbaa99cbf5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyYWlueSUyMGNpdHl8ZW58MHx8fHwxNzY3MTA2MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rainy city"
+    },
+    {
+      "id": "poster-4",
+      "imageUrl": "https://images.unsplash.com/photo-1522749541344-23b292febf25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyb21hbnRpYyUyMGNvdXBsZXxlbnwwfHx8fDE3NjcxNjQxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "romantic couple"
+    },
+    {
+      "id": "backdrop-4",
+      "imageUrl": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwYXJpcyUyMHN1bnNldHxlbnwwfHx8fDE3NjcxNjQxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paris sunset"
+    },
+    {
+      "id": "poster-5",
+      "imageUrl": "https://images.unsplash.com/photo-1625420055396-d61b846ce03c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhY3Rpb24lMjBoZXJvfGVufDB8fHx8MTc2NzE2NDE0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "action hero"
+    },
+    {
+      "id": "backdrop-5",
+      "imageUrl": "https://images.unsplash.com/photo-1686056344479-ee9b74a1e0af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxidWlsZGluZyUyMGV4cGxvc2lvbnxlbnwwfHx8fDE3NjcxNjQxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "building explosion"
+    },
+    {
+      "id": "poster-6",
+      "imageUrl": "https://images.unsplash.com/photo-1729314458953-d8716fae1b54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb21lZGlhbiUyMHN0YWdlfGVufDB8fHx8MTc2NzE2NDE0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "comedian stage"
+    },
+    {
+      "id": "backdrop-6",
+      "imageUrl": "https://images.unsplash.com/photo-1571175420223-f0a8f9a4bcfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYXVnaGluZyUyMGNyb3dkfGVufDB8fHx8MTc2NzE2NDE0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laughing crowd"
+    },
+    {
+      "id": "poster-7",
+      "imageUrl": "https://images.unsplash.com/photo-1481018085669-2bc6e4f00eed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoYXVudGVkJTIwaG91c2V8ZW58MHx8fHwxNzY3MTY0MTQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "haunted house"
+    },
+    {
+      "id": "backdrop-7",
+      "imageUrl": "https://images.unsplash.com/photo-1600430847301-17d5c75dd052?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzcG9va3klMjBncmF2ZXlhcmR8ZW58MHx8fHwxNzY3MTY0MTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spooky graveyard"
+    },
+    {
+      "id": "poster-8",
+      "imageUrl": "https://images.unsplash.com/photo-1758730009850-4e08264b06eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxoaXN0b3JpYyUyMGRyYW1hfGVufDB8fHx8MTc2NzE2NDE0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "historic drama"
+    },
+    {
+      "id": "backdrop-8",
+      "imageUrl": "https://images.unsplash.com/photo-1698491268513-234fa7d57354?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhbmNpZW50JTIwY2FzdGxlfGVufDB8fHx8MTc2NzE2NDE0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ancient castle"
+    },
+    {
+      "id": "poster-9",
+      "imageUrl": "https://images.unsplash.com/photo-1712926631296-8332868a03e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhbmltYXRlZCUyMGNoYXJhY3RlcnxlbnwwfHx8fDE3NjcxNjQxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "animated character"
+    },
+    {
+      "id": "backdrop-9",
+      "imageUrl": "https://images.unsplash.com/photo-1760434685862-5f2b29748cb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjYXJ0b29uJTIwd29ybGR8ZW58MHx8fHwxNzY3MDk0ODc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cartoon world"
+    },
+    {
+      "id": "poster-10",
+      "imageUrl": "https://images.unsplash.com/photo-1742145792541-172c7ef6d0d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3ZXN0ZXJuJTIwY293Ym95fGVufDB8fHx8MTc2NzAzODc2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "western cowboy"
+    },
+    {
+      "id": "backdrop-10",
+      "imageUrl": "https://images.unsplash.com/photo-1700356068833-a9f14fdc65e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZXNlcnQlMjBjYW55b258ZW58MHx8fHwxNzY3MDU3Mzc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "desert canyon"
+    },
+    {
+      "id": "poster-11",
+      "imageUrl": "https://images.unsplash.com/photo-1555597408-26bc8e548a46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYXJ0aWFsJTIwYXJ0c3xlbnwwfHx8fDE3NjcxNjQxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "martial arts"
+    },
+    {
+      "id": "backdrop-11",
+      "imageUrl": "https://images.unsplash.com/photo-1526025202335-cf944dc3f799?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYW1ib28lMjBmb3Jlc3R8ZW58MHx8fHwxNzY3MTY0MTQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bamboo forest"
+    },
+    {
+      "id": "poster-12",
+      "imageUrl": "https://images.unsplash.com/photo-1711003596883-63fa072778e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb3VydHJvb20lMjB0cmlhbHxlbnwwfHx8fDE3NjcxNjQxNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "courtroom trial"
+    },
+    {
+      "id": "backdrop-12",
+      "imageUrl": "https://images.unsplash.com/photo-1758541213979-fe8c9996e197?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8anVkZ2UlMjBnYXZlbHxlbnwwfHx8fDE3NjcxNjQxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "judge gavel"
+    }
+  ]
 }
