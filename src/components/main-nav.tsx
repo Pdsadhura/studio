@@ -15,7 +15,7 @@ export function MainNav({ className, ...props }: React.HTMLAttributes<HTMLElemen
 
   return (
     <nav
-      className={cn('hidden items-center space-x-4 md:flex lg:space-x-6', className)}
+      className={cn('hidden items-center space-x-4 md:flex lg:space-x-6 ml-6', className)}
       {...props}
     >
       {navItems.map((item) => (
